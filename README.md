@@ -111,7 +111,3 @@ Focus: Granular loan-level insights
 │── SQL_Scripts/
 │── PowerBI_File.pbix
 ```
-
-
-If you want, I can now prepare a **Markdown-formatted README file** for your GitHub repo so you can directly upload it with screenshots and code blocks.
-Do you want me to create that README.md for you?
